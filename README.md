@@ -31,12 +31,29 @@ The repo contains 3 groups/models of UI screens. Descriptions of the models:
 
 You have to create a React Native app in which you would implement one of the Models mentioned above.
 
-We would assess the following:
+Feel free to structure the code however you prefer and use third-party libraries at your discretion.
+
+You can use any Mock APIs available online or Have any Local JSON Dummy Data.
+
+**NOTE**
+React Native must be used as the base library and the application should work in both android and iOS devices
+
+We would grade the following:
 
  - UI to Code conversion Accuracy (Colors, alignments etc.)
  - Code Structure
  - Mock Functionality (Local JSON API etc.)
+ 
+## Follow-up
 
-# How to Deliver Assessment?
+Answer the questions in the [FOLLOW-UP.md](./FOLLOW-UP.md) file.
 
-It would be great if you can submit an APK for us to try on our devices Or You can record a Video in which you may demonstrate your work from your device or Simulator.
+# How to Deliver/Submit Assessment?
+
+- It would be great if you can submit an APK for us to try on our devices
+- You can record a Video in which you may demonstrate your work from your device or Simulator.
+- Share the repository of your code so we can review the code.
+
+a member of our team will review and we'll get back to you as soon as possible.
+
+Thanks!
