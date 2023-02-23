@@ -6,6 +6,8 @@
 
 #### Q) Any other comments we should read before evaluating your solution?
 
+#### Q) How much time did you take to complete the assessment?
+
 ---
 
 # General:
